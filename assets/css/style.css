@@ -1,0 +1,9 @@
+.red{
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
+}
+
+.displayImage {
+    max-width: 400px;
+}
